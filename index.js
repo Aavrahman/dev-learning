@@ -1,1 +1,1 @@
-/* some JS code
+let someVar;
